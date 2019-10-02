@@ -1,6 +1,8 @@
 # PassWordValidator
 Algoritmo de validação de senha.
 Exercício:
+
+
 Rolien and Naej are the developers of a big programming portal. To help the new site registration system, they requested your help. Your job is write a code that validates passwords that are registered on the portal, for that you should be aware for the following requirements:
 
 The password must contain at least one uppercase letter, one lowercase letter and a number;
